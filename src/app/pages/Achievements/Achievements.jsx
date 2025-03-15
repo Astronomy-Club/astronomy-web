@@ -12,7 +12,7 @@ const roboto = Roboto({
 })
 const interiit = [
     {
-        title: 'Gold in HBCSE, RIFR',
+        title: 'Gold in HBCSE, TIFR',
         description: 'No Prep: Astronomy',
         date: '2024',
     },
